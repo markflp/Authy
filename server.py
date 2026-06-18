@@ -23,7 +23,7 @@ def setup_bot_bridge(loop, callback):
 # ─────────────────────────────────────────────
 CLIENT_ID     = '1514732749586694234'
 CLIENT_SECRET = 'OmAhv7isnByWkMYVLKl7R07pvJRWhKdW' 
-REDIRECT_URI  = 'http://localhost:5000/callback'
+REDIRECT_URI  = 'authy-production.up.railway.app'
 TOKENS_FILE   = 'tokens.json'   # Εδώ αποθηκεύονται τα tokens
 # ─────────────────────────────────────────────
 
